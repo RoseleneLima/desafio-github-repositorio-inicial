@@ -8,5 +8,5 @@ Repositório  criado  para o Desafio de Projeto inicial do Bootcamp da  Philips 
 
 [Installando_Git no Windows](https://git-scm.com/download/win)
 
-[Instalando_Git_no_Linux] (https://git-scm.com/download/linux)
+[Instalando_Git_no_Linux](https://git-scm.com/download/linux)
 
