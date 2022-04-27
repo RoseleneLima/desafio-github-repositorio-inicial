@@ -1,2 +1,5 @@
-# desafio-github-repositorio-inicial
-Desafio de Projeto sobre Git/GitHub
+#  Desafio de Projeto sobre Git/GitHub da  DIO
+Repositório  criado  para o Desafio de Projeto inicial do Bootcamp da  Philips Fullstack Developer da DIO.
+
+## Links  Úteis
+[Sintaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/)
